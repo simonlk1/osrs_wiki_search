@@ -17,5 +17,10 @@
       "search_url": "https://oldschool.runescape.wiki/?search={searchTerms}"
     }
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "osrswiki@kristianzen.dk"
+    }
+  },
   "author": "simonlk"
 }
